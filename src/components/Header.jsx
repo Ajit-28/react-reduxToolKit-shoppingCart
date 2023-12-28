@@ -14,10 +14,10 @@ export default function Header() {
                     <Link to='/'>Home</Link>
                 </li>
                 <li>
-                    <Link to='/details'>Details</Link>
+                    <Link to='/cart'>Cart</Link>
                 </li>
                 <li>
-                    <Link to='/cart'>Cart</Link>
+                    <Link to='/counter'>Counter</Link>
                 </li>
             </ul>
             <div className='icon'>
