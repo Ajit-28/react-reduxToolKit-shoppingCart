@@ -19,6 +19,9 @@ export default function Header() {
                 <li>
                     <Link to='/counter'>Counter</Link>
                 </li>
+                <li>
+                    <Link to='/users'>Crud</Link>
+                </li>
             </ul>
             <div className='icon'>
                 <Link to='/cart'>{data.length}</Link>
